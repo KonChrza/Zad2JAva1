@@ -1,0 +1,31 @@
+<%@ page language="java"
+	contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"
+    %>
+    <%@ page import="zad2.Credencials,zad2.User" %>
+<!DOCTYPE html>
+<%
+    
+    if(session.getAttribute("UserName") == null)
+    {
+        response.sendRedirect("/");
+    }
+%>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Strona usera</title>
+<% if(session.getAttribute("IsPremium").equals(true) || 
+		session.getAttribute("IsAdmin").equals(true) ) { %>
+        <p><a href="/premium.jsp"> Kontent Premium</a></p>
+        <% } %>
+        
+<% if(session.getAttribute("IsAdmin").equals(true)) { %>
+        <p><a href="/AdminPage.jsp"></i> Strona dla adminow</a></p>
+        <% } %>
+
+</head>
+<body>
+
+</body>
+</html>

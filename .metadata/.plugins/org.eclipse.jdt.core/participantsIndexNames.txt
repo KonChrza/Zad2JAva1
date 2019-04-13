@@ -1,0 +1,9 @@
+INDEX VERSION 1.131
+C:\Users\konch\Desktop\sem4\workspace\zad1_1\Java_2\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2169097846.index
+\zad2\src\main\java
+C:\Users\konch\Desktop\sem4\workspace\zad1_1\Java_2\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4152639714.index
+\zad2\src\main\java
+C:\Users\konch\Desktop\sem4\workspace\zad1_1\Java_2\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3294357243.index
+\zad2\src\main\java
+C:\Users\konch\Desktop\sem4\workspace\zad1_1\Java_2\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3299083376.index
+\zad1_1\src\main\java
